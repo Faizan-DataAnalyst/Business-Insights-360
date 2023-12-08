@@ -102,6 +102,9 @@ In Home view, all the views button will be available. User will land on specific
 - Support View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection704f9880b866ee259b19?experience=power-bi
 - Info View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectioncf6cd729e54db66063a6?experience=power-bi
 
+  ## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
 
 
  
