@@ -2,6 +2,10 @@
 ## Project Overview:-
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
+----------------------------------------------------
+Live Business Insights 360 Dashboard Interactions :- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond3ff4ab3b828b5d039a9?experience=power-bi
+----------------------------------------------------
+
 ## Tools Used
 - SQL
 - Power BI Desktop
