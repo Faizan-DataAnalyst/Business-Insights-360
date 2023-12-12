@@ -109,6 +109,42 @@ In Home view, all the views button will be available. User will land on specific
   ## Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
+## Finance View
+### Objectives
+- Improve financial planning and budgeting processes.
+- Enhance cost control and expense management.
+### Key Achievements
+- Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
+- Created benchmarking against last year and target goals for budgeting.
+## Sales View
+### Objectives
+- Increase sales revenue and market share.
+- Enhance customer relationship management.
+### Key Achievements
+- Created customer and product overall sales performance report and unit economics.
+- Identified sales trends and track KPIs
+## Supply Chain View
+### Objectives
+- Optimize inventory management and reduce lead times.
+- Enhance supplier relationships for cost savings.
+### Key Achievements
+- Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
+
+## Executive View
+### Objectives
+- Provide an overview of the entire organization's performance.
+- Enable data-driven decision-making for top management.
+### Key Achievements
+Developed an executive dashboard for real-time performance monitoring.
+Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
+## Marketing View
+### Objectives
+- Increase brand visibility and customer engagement.
+- Implement data-driven marketing strategies.
+### Key Achievements
+- Created region and product wise overall market performance report and unit economics.
+- Identified market trends and track KPIs
+
 
 
  
