@@ -6,7 +6,56 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 Live Business Insights 360 Dashboard Interactions :- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond3ff4ab3b828b5d039a9?experience=power-bi
 ----------------------------------------------------
 
-## Tools Used
+## Importing data into PowerBi
+As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
+Dashboard designing
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required.
+
+## Home view
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/006d1e10-afef-475a-82d3-5360de311560)
+
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond3ff4ab3b828b5d039a9?experience=power-bi
+
+## Finance View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/cd3aabbb-de92-4f0b-bcab-4cde614c6fa1)
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection63faf97805b93097d51e?experience=power-bi
+
+## Sales View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/22075cce-b5ba-4353-a208-007d1a01a40e)
+
+https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond32e864cc133b01e0252?experience=power-bi
+
+## Marketing View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/a2bf1324-aa4a-4796-8fca-2c13eaf157ba)
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectionc27467f3f83ca85d7210?experience=power-bi
+
+## Supply chain View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/66f614e5-292f-498f-b2f9-f7e6df9b187e)
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection42bbd40f862a713b885a?experience=power-bi
+  
+## Executive View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/b7ad4259-6f6b-4207-b49b-065926388df5)
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection9dbfc5a500ff990d6416?experience=power-bi
+
+## Support View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/a3881114-6446-4f71-804a-ad37bba89f20)
+
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection704f9880b866ee259b19?experience=power-bi
+
+## Info View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/c428af7a-a98f-488e-bf58-cdcf0c0c49d4)
+
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectioncf6cd729e54db66063a6?experience=power-bi
+
+  ## Tools Used
 - SQL
 - Power BI Desktop
 - Excel
@@ -79,54 +128,6 @@ Project kick off session, where you should get clear of for what and why this pr
 - is there any inputs from stakeholders in terms of design and views of the dashboard?
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
-## Importing data into PowerBi
-As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
-Dashboard designing
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required.
-
-## Home view
-In Home view, all the views button will be available. User will land on specific view page by clicking the button
-![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/006d1e10-afef-475a-82d3-5360de311560)
-
-
-- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond3ff4ab3b828b5d039a9?experience=power-bi
-
-## Finance View:-
-![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/cd3aabbb-de92-4f0b-bcab-4cde614c6fa1)
-
-- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection63faf97805b93097d51e?experience=power-bi
-
-## Sales View:-
-![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/22075cce-b5ba-4353-a208-007d1a01a40e)
-
-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond32e864cc133b01e0252?experience=power-bi
-
-## Marketing View:-
-![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/a2bf1324-aa4a-4796-8fca-2c13eaf157ba)
-
-- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectionc27467f3f83ca85d7210?experience=power-bi
-
-## Supply chain View:-
-![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/66f614e5-292f-498f-b2f9-f7e6df9b187e)
-
-- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection42bbd40f862a713b885a?experience=power-bi
-  
-## Executive View:-
-![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/b7ad4259-6f6b-4207-b49b-065926388df5)
-
-- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection9dbfc5a500ff990d6416?experience=power-bi
-
-## Support View:-
-![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/a3881114-6446-4f71-804a-ad37bba89f20)
-
-
-- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection704f9880b866ee259b19?experience=power-bi
-
-## Info View:-
-![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/c428af7a-a98f-488e-bf58-cdcf0c0c49d4)
-
-
-- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectioncf6cd729e54db66063a6?experience=power-bi
 
    ## Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
