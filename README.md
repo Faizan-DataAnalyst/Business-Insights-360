@@ -86,27 +86,49 @@ Based on the mock ups received as requirement, the team will start designing the
 
 ## Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/006d1e10-afef-475a-82d3-5360de311560)
 
-- Info
-- Finance View
-- Sales View
-- Marketing View
-- Supply chain View
-- Executive View
-- Support
-- Info
- ## Overall Reports
-- Home View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond3ff4ab3b828b5d039a9?experience=power-bi
-- Finance View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection63faf97805b93097d51e?experience=power-bi
-- Sales View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond32e864cc133b01e0252?experience=power-bi
-- Marketing View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectionc27467f3f83ca85d7210?experience=power-bi
-- Supply chain View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection42bbd40f862a713b885a?experience=power-bi
-- Executive View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection9dbfc5a500ff990d6416?experience=power-bi
-- Stakeholder Request:-
-- Support View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection704f9880b866ee259b19?experience=power-bi
-- Info View:-https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectioncf6cd729e54db66063a6?experience=power-bi
 
-  ## Project Outcome
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond3ff4ab3b828b5d039a9?experience=power-bi
+
+## Finance View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/cd3aabbb-de92-4f0b-bcab-4cde614c6fa1)
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection63faf97805b93097d51e?experience=power-bi
+
+## Sales View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/22075cce-b5ba-4353-a208-007d1a01a40e)
+
+https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectiond32e864cc133b01e0252?experience=power-bi
+
+## Marketing View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/a2bf1324-aa4a-4796-8fca-2c13eaf157ba)
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectionc27467f3f83ca85d7210?experience=power-bi
+
+## Supply chain View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/66f614e5-292f-498f-b2f9-f7e6df9b187e)
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection42bbd40f862a713b885a?experience=power-bi
+  
+## Executive View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/b7ad4259-6f6b-4207-b49b-065926388df5)
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection9dbfc5a500ff990d6416?experience=power-bi
+
+## Support View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/a3881114-6446-4f71-804a-ad37bba89f20)
+
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSection704f9880b866ee259b19?experience=power-bi
+
+## Info View:-
+![image](https://github.com/Faizan-DataAnalyst/Business-Insights-360/assets/144520186/c428af7a-a98f-488e-bf58-cdcf0c0c49d4)
+
+
+- https://app.powerbi.com/groups/me/reports/ad2ddf71-9cf9-46b8-8d79-e1205b9f7c4a/ReportSectioncf6cd729e54db66063a6?experience=power-bi
+
+   ## Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
 ## Finance View
@@ -145,6 +167,4 @@ Shows revenue by division, customers , products and channels and ribbon chart fo
 - Created region and product wise overall market performance report and unit economics.
 - Identified market trends and track KPIs
 
-
-
- 
+# FAIZAN SAIFI DATA ANALYST (9555706059)
